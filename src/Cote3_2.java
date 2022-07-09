@@ -52,4 +52,4 @@ public class Main {
         result += (m - cnt) * second; // 두 번째로 큰 수 더하기
         System.out.println(result);
     }
-}*
+}*/
