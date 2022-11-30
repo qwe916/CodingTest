@@ -1,3 +1,5 @@
+package Cote;
+
 import java.util.Scanner;
 //나의 코드
 public class Cote4_3 {

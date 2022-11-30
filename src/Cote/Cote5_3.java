@@ -1,3 +1,5 @@
+package Cote;
+
 import java.util.Scanner;
 //이코테 코드
 public class Cote5_3 {

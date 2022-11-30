@@ -1,3 +1,5 @@
+package Cote;
+
 import java.util.Scanner;
 
 public class Cote8_4 {

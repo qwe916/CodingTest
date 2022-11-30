@@ -1,3 +1,5 @@
+package Cote;
+
 import java.util.*;
 
 class node implements Comparable<node> {

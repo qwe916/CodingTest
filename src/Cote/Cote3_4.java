@@ -1,3 +1,5 @@
+package Cote;
+
 import java.util.Scanner;
 
 //나의 코드
